@@ -53,6 +53,7 @@ Total Sales:$12.64M | Total Profit:$1.47M | Profit Margin:11.6%
 
 == Dashboard Preview
 The dashboard has 5 pages: Executive Overview, Product Performance, Customer Analysis,Regional Analysis, and Shipping & Returns.
+![Image Alt Text](https://github.com/Tejasonar/Global-Sales-Analytics-Dashboard/blob/3a02b2c7a7e30c28e3a88e90191a8afc4d7e19bf/Executive_Sales_Overview_(page_1).png)
 
 
 ==  How to Use
