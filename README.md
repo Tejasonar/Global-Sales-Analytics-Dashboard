@@ -53,7 +53,11 @@ Total Sales:$12.64M | Total Profit:$1.47M | Profit Margin:11.6%
 
 == Dashboard Preview
 The dashboard has 5 pages: Executive Overview, Product Performance, Customer Analysis,Regional Analysis, and Shipping & Returns.
-Executive_Sales_Overview_(page_1).png
+![Image Alt Text](images/photo.png)
+
+
+
+
 
 ==  How to Use
 1. Run the schema + `LOAD DATA INFILE` section in `sql/global_sales_analysis.sql` to populate `orders`
